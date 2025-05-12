@@ -1,0 +1,32 @@
+.left-section {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.card-preview-1 {
+    background-color: hsl(180, 62%, 55%);
+}
+
+.middle-section {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 40px;
+}
+
+.card-preview-2 {
+    background-color: hsl(0, 78%, 62%);
+}
+
+.card-preview-3 {
+    background-color: hsl(34, 97%, 64%);
+}
+
+.right-section {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.card-preview-4 {
+    background-color: hsl(212, 86%, 64%);
+}
+
