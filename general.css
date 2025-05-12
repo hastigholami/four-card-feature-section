@@ -1,0 +1,15 @@
+body {
+    background: hsl(0, 0%, 100%);
+}
+
+h1 {
+    color: hsl(234, 12%, 34%);
+}
+
+h2 {
+    color: hsl(234, 12%, 34%);
+}
+
+p {
+    color: hsl(212, 6%, 44%);
+}
