@@ -1,9 +1,17 @@
 body {
     background: hsl(0, 0%, 100%);
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    text-align: center;
+    margin: 50px;
 }
 
 h1 {
     color: hsl(234, 12%, 34%);
+    margin: 0px;
+    font-weight: 200;
 }
 
 h2 {
@@ -12,6 +20,8 @@ h2 {
 
 p {
     color: hsl(212, 6%, 44%);
+    margin: 0px;
+    font-weight: 300;
 }
 main {
     display: grid;
