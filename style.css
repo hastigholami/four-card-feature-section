@@ -11,6 +11,7 @@
     border-top: solid 5px hsl(180, 62%, 55%);
     border-radius: 10px;
     box-shadow: 0px 5px 10px 0px rgba(128, 128, 128, 0.589);
+    position: relative;
 
 
 }
@@ -29,6 +30,7 @@
     border-top: solid 5px hsl(0, 78%, 62%);
     border-radius: 10px;
     box-shadow: 0px 5px 10px 0px rgba(128, 128, 128, 0.589);
+    position: relative;
 }
 
 .card-preview-3 {
@@ -39,6 +41,7 @@
     border-top: solid 5px hsl(34, 97%, 64%);
     border-radius: 10px;
     box-shadow: 0px 5px 10px 0px rgba(128, 128, 128, 0.589);
+    position: relative;
 }
 
 .right-section {
@@ -54,5 +57,6 @@
     border-top: solid 5px hsl(212, 86%, 64%);
     border-radius: 10px;
     box-shadow: 0px 5px 10px 0px rgba(128, 128, 128, 0.589);
+    position: relative;
 }
 

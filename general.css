@@ -29,3 +29,9 @@ main {
     gap: 1rem;
     margin: 0px 100px;
 }
+
+img {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
